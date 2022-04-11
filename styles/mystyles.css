@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(212, 202, 202);
+}
+
+mb-4{color: grey;
+}
+.mb-5{color:rgb(236, 227, 227)}
+.style{font-size: 2em;
+font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+.small
+{font-size: 1.2em;}
+
+.fst-italic{
+    font-style: oblique;
+}
+
+.navbar-light{
+    color: rgba(65, 60, 60, 0.712);
+  }
+
+.clr{color: blue;}
+
+.center {
+    text-align: center;
+  }
+.center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
